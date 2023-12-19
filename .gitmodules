@@ -1,0 +1,15 @@
+[submodule "yao"]
+	path = yao
+	url = https://github.com/yaoapp/yao.git
+[submodule "gou"]
+	path = gou
+	url = https://github.com/yaoapp/gou.git
+[submodule "xun"]
+	path = xun
+	url = https://github.com/yaoapp/xun.git
+[submodule "kun"]
+	path = kun
+	url = https://github.com/yaoapp/kun.git
+[submodule "v8go"]
+	path = v8go
+	url = https://github.com/yaoapp/v8go.git
